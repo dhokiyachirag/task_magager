@@ -17,6 +17,7 @@
 - php artisan passport:install
 
 - php artisan optimize:clear
+- php artisan serve
 
 
 # credentials
